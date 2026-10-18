@@ -1,0 +1,55 @@
+id,query,chosen,score,status,cand1,cand2,cand3
+bench_press_barbell,Barbell Bench Press Medium Grip,Barbell_Bench_Press_-_Medium_Grip,1.0,ok,Barbell_Bench_Press_-_Medium_Grip,Barbell_Incline_Bench_Press_-_Medium_Grip,Wide-Grip_Barbell_Bench_Press
+incline_barbell_press,Barbell Incline Bench Press Medium Grip,Barbell_Incline_Bench_Press_-_Medium_Grip,1.0,ok,Barbell_Incline_Bench_Press_-_Medium_Grip,Barbell_Bench_Press_-_Medium_Grip,Barbell_Guillotine_Bench_Press
+incline_dumbbell_press,Incline Dumbbell Press,Incline_Dumbbell_Press,1.0,ok,Incline_Dumbbell_Press,Incline_Dumbbell_Flyes,Incline_Dumbbell_Curl
+bench_press_dumbbells,Dumbbell Bench Press,Dumbbell_Bench_Press,1.0,ok,Dumbbell_Bench_Press,Decline_Dumbbell_Bench_Press,One_Arm_Dumbbell_Bench_Press
+dips_chest,Dips Chest Version,Dips_-_Chest_Version,1.0,ok,Dips_-_Chest_Version,Dips_-_Triceps_Version,Supine_Chest_Throw
+pushups_floor,Pushups,Pushups,1.0,ok,Pushups,Plyo_Kettlebell_Pushups,Pullups
+pushups_weighted,Weighted Pushup,Pushups,0.27,ok,Weighted_Pull_Ups,Weighted_Squat,Weighted_Crunches
+pushups_feet_elevated,Decline Push-Up,Decline_Push-Up,1.0,ok,Decline_Push-Up,Incline_Push-Up,Clock_Push-Up
+chest_press_machine,Machine Bench Press,Machine_Bench_Press,1.0,ok,Machine_Bench_Press,Smith_Machine_Bench_Press,Smith_Machine_Incline_Bench_Press
+low_to_high_cable_fly,Low Cable Crossover,Low_Cable_Crossover,1.0,ok,Low_Cable_Crossover,Cable_Crossover,Single-Arm_Cable_Crossover
+overhead_press_barbell,Standing Military Press,Standing_Military_Press,1.0,ok,Standing_Military_Press,Standing_Bradford_Press,Standing_Dumbbell_Press
+seated_dumbbell_press,Dumbbell Shoulder Press,Dumbbell_Shoulder_Press,1.0,ok,Dumbbell_Shoulder_Press,Dumbbell_One-Arm_Shoulder_Press,Barbell_Shoulder_Press
+shoulder_press_machine,Machine Shoulder Military Press,Machine_Shoulder_Military_Press,1.0,ok,Machine_Shoulder_Military_Press,Smith_Machine_Overhead_Shoulder_Press,Cable_Shoulder_Press
+pike_pushups,Pike Push-Up,Handstand_Push-Ups,0.37,ok,Plyo_Push-up,Decline_Push-Up,Incline_Push-Up
+lateral_raises_dumbbells,Side Lateral Raise,Side_Lateral_Raise,1.0,ok,Side_Lateral_Raise,Seated_Side_Lateral_Raise,Cable_Seated_Lateral_Raise
+lateral_raises_cable,Cable Seated Lateral Raise,Cable_Seated_Lateral_Raise,1.0,ok,Cable_Seated_Lateral_Raise,Seated_Side_Lateral_Raise,Seated_Calf_Raise
+lateral_raises_resistance_band,Band Lateral Raise,Side_Lateral_Raise,0.67,ok,Side_Lateral_Raise,Cable_Seated_Lateral_Raise,Seated_Side_Lateral_Raise
+rear_delt_cable_fly,Cable Rear Delt Fly,Cable_Rear_Delt_Fly,1.0,ok,Cable_Rear_Delt_Fly,Cable_Rope_Rear-Delt_Rows,Barbell_Rear_Delt_Row
+rear_delt_dumbbell_fly,Bent Over Dumbbell Rear Delt Raise With Head On Bench,Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench,1.0,ok,Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench,Seated_Bent-Over_Rear_Delt_Raise,Bent_Over_Two-Dumbbell_Row_With_Palms_In
+face_pull_cable,Face Pull,Face_Pull,1.0,ok,Face_Pull,Snatch_Pull,Clean_Pull
+lat_pulldown,Wide-Grip Lat Pulldown,Wide-Grip_Lat_Pulldown,1.0,ok,Wide-Grip_Lat_Pulldown,Close-Grip_Front_Lat_Pulldown,One_Arm_Lat_Pulldown
+lat_pulldown_band,Band Assisted Pull-Up,Wide-Grip_Lat_Pulldown,0.16,ok,Band_Assisted_Pull-Up,Band_Pull_Apart,Scapular_Pull-Up
+pullups,Pullups,Pullups,1.0,ok,Pullups,Pushups,V-Bar_Pullup
+seated_cable_row,Seated Cable Rows,Seated_Cable_Rows,1.0,ok,Seated_Cable_Rows,Elevated_Cable_Rows,Seated_One-arm_Cable_Pulley_Rows
+barbell_row,Bent Over Barbell Row,Bent_Over_Barbell_Row,1.0,ok,Bent_Over_Barbell_Row,Bent_Over_Two-Dumbbell_Row,Upright_Barbell_Row
+dumbbell_row_bench,One-Arm Dumbbell Row,One-Arm_Dumbbell_Row,1.0,ok,One-Arm_Dumbbell_Row,One-Arm_Kettlebell_Row,Dumbbell_One-Arm_Upright_Row
+chest_supported_row,Dumbbell Incline Row,Dumbbell_Incline_Row,1.0,ok,Dumbbell_Incline_Row,Dumbbell_Prone_Incline_Curl,Dumbbell_Incline_Shoulder_Raise
+t_bar_row_supported,Lying T-Bar Row,Lying_T-Bar_Row,1.0,ok,Lying_T-Bar_Row,Lying_Cambered_Barbell_Row,T-Bar_Row_with_Handle
+inverted_rows,Inverted Row,Inverted_Row,1.0,ok,Inverted_Row,Inverted_Row_with_Straps,Sled_Row
+back_squat,Barbell Full Squat,Barbell_Full_Squat,1.0,ok,Barbell_Full_Squat,Barbell_Squat,Barbell_Hack_Squat
+leg_press,Leg Press,Leg_Press,1.0,ok,Leg_Press,Leg-Over_Floor_Press,Bent_Press
+hack_squat,Hack Squat,Hack_Squat,1.0,ok,Hack_Squat,Barbell_Hack_Squat,Chair_Squat
+goblet_squat,Goblet Squat,Goblet_Squat,1.0,ok,Goblet_Squat,Box_Squat,Barbell_Squat
+bulgarian_split_squat,Single Leg Split Squat Dumbbell Bulgarian,Split_Squat_with_Dumbbells,0.42,ok,Smith_Single-Leg_Split_Squat,Single-Leg_High_Box_Squat,Single_Dumbbell_Raise
+leg_extension,Leg Extensions,Leg_Extensions,1.0,ok,Leg_Extensions,Leg_Press,Single-Leg_Leg_Extension
+romanian_deadlift_barbell,Romanian Deadlift,Romanian_Deadlift,1.0,ok,Romanian_Deadlift,Romanian_Deadlift_from_Deficit,Clean_Deadlift
+romanian_deadlift_dumbbells,Romanian Deadlift With Dumbbells,Romanian_Deadlift,0.6,CHECK,Romanian_Deadlift,Deadlift_with_Bands,Romanian_Deadlift_from_Deficit
+leg_curl_machine,Lying Leg Curls,Lying_Leg_Curls,1.0,ok,Lying_Leg_Curls,Lying_Cable_Curl,Lying_Bent_Leg_Groin
+glute_bridge,Barbell Glute Bridge,Butt_Lift_Bridge,0.38,ok,Barbell_Glute_Bridge,Single_Leg_Glute_Bridge,Barbell_Lunge
+nordic_curl,Natural Glute Ham Raise,Natural_Glute_Ham_Raise,1.0,ok,Natural_Glute_Ham_Raise,Glute_Ham_Raise,Floor_Glute-Ham_Raise
+biceps_curl_barbell,Barbell Curl,Barbell_Curl,1.0,ok,Barbell_Curl,Reverse_Barbell_Curl,Barbell_Lunge
+biceps_curl_ez_bar,EZ-Bar Curl,EZ-Bar_Curl,1.0,ok,EZ-Bar_Curl,Close-Grip_EZ_Bar_Curl,EZ-Bar_Skullcrusher
+biceps_curl_dumbbells,Dumbbell Alternate Bicep Curl,Dumbbell_Alternate_Bicep_Curl,1.0,ok,Dumbbell_Alternate_Bicep_Curl,Dumbbell_Bicep_Curl,Alternate_Incline_Dumbbell_Curl
+hammer_curls_dumbbells,Hammer Curls,Hammer_Curls,1.0,ok,Hammer_Curls,Incline_Hammer_Curls,Finger_Curls
+biceps_curl_cable,Standing Biceps Cable Curl,Standing_Biceps_Cable_Curl,1.0,ok,Standing_Biceps_Cable_Curl,Standing_Inner-Biceps_Curl,Standing_One-Arm_Cable_Curl
+triceps_pushdown_cable,Triceps Pushdown,Triceps_Pushdown,1.0,ok,Triceps_Pushdown,Reverse_Grip_Triceps_Pushdown,Triceps_Pushdown_-_Rope_Attachment
+triceps_pushdown_rope,Triceps Pushdown Rope Attachment,Triceps_Pushdown_-_Rope_Attachment,1.0,ok,Triceps_Pushdown_-_Rope_Attachment,Triceps_Pushdown_-_V-Bar_Attachment,Triceps_Pushdown
+overhead_triceps_dumbbell,Seated Triceps Press,Seated_Triceps_Press,1.0,ok,Seated_Triceps_Press,Lying_Triceps_Press,Seated_Dumbbell_Press
+skull_crushers_dumbbells,Lying Dumbbell Tricep Extension,Lying_Dumbbell_Tricep_Extension,1.0,ok,Lying_Dumbbell_Tricep_Extension,Decline_Dumbbell_Triceps_Extension,Dumbbell_Tricep_Extension_-Pronated_Grip
+dips_bench,Bench Dips,Bench_Dips,1.0,ok,Bench_Dips,Bench_Jump,Bench_Sprint
+cable_crunch_prayer,Kneeling Cable Crunch With Alternating Oblique Twists,Cable_Crunch,0.33,ok,Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists,Bosu_Ball_Cable_Crunch_With_Side_Bends,Kneeling_Cable_Triceps_Extension
+hanging_leg_raises,Hanging Leg Raise,Hanging_Leg_Raise,1.0,ok,Hanging_Leg_Raise,Flat_Bench_Lying_Leg_Raise,Rear_Leg_Raises
+floor_crunches,Crunches,Crunches,1.0,ok,Crunches,Oblique_Crunches,Weighted_Crunches
+plank,Plank,Plank,1.0,ok,Plank,Clean,Push_Up_to_Side_Plank
