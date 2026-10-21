@@ -53,3 +53,5 @@ cable_crunch_prayer,Kneeling Cable Crunch With Alternating Oblique Twists,Cable_
 hanging_leg_raises,Hanging Leg Raise,Hanging_Leg_Raise,1.0,ok,Hanging_Leg_Raise,Flat_Bench_Lying_Leg_Raise,Rear_Leg_Raises
 floor_crunches,Crunches,Crunches,1.0,ok,Crunches,Oblique_Crunches,Weighted_Crunches
 plank,Plank,Plank,1.0,ok,Plank,Clean,Push_Up_to_Side_Plank
+sumo_squat_barbell,Wide Stance Barbell Squat,Wide_Stance_Barbell_Squat,1.0,ok,Wide_Stance_Barbell_Squat,Barbell_Squat,Front_Barbell_Squat
+sumo_squat_dumbbell,Plie Dumbbell Squat,Plie_Dumbbell_Squat,1.0,ok,Plie_Dumbbell_Squat,Dumbbell_Squat,Split_Squat_with_Dumbbells
